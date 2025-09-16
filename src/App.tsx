@@ -692,7 +692,7 @@ function App() {
                     {
                       icon: <Clock className="w-6 h-6" />,
                       title: "Jam Operasional",
-                      content: "Senin - Jumat: 08:00 - 18:00\nSabtu: 08:00 - 16:00",
+                      content: "Senin - Jumat: 07:00 - 15:00\nSabtu: 08:00 - 14:00\nMinggu: Libur",
                       color: "text-purple-500"
                     }
                   ].map((item, index) => (
