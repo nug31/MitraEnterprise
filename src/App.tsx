@@ -917,6 +917,7 @@ function App() {
             }`}>
               <p className="text-lg">&copy; 2025 Mitra Enterprise. Hak cipta dilindungi.</p>
               <p className="text-sm mt-1">Dibuat dengan ❤️ untuk masa depan yang lebih baik</p>
+              <p className="text-xs mt-2 opacity-75">Developed by <span className="font-semibold text-blue-400">jsnug</span></p>
             </div>
             
             {/* Back to Top Button */}
