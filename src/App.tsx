@@ -674,13 +674,13 @@ function App() {
                     {
                       icon: <MapPin className="w-6 h-6" />,
                       title: "Alamat",
-                      content: "Jl. Raya Mitra Enterprise No. 123\nJakarta, Indonesia 12345",
+                      content: "Kawasan Industri MM2100, Jl. Kalimantan No.1 Blok DD 1 17530\nKabupaten Bekasi Jawa Barat • 6,6 km",
                       color: "text-red-500"
                     },
                     {
                       icon: <Phone className="w-6 h-6" />,
                       title: "Telepon",
-                      content: "+62 21 1234 5678",
+                      content: "+62 21 89983961",
                       color: "text-green-500"
                     },
                     {
